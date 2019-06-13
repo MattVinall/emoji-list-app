@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 
 export default class SearchEmojis extends React.Component {
 	constructor() {
