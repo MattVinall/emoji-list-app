@@ -1,6 +1,6 @@
 import React from 'react';
 import '../App.css';
-import emojiData from '../conversion/convertToJson';
+import axios from 'axios';
 
 class DisplayEmojis extends React.Component {
 	constructor() {
@@ -8,7 +8,16 @@ class DisplayEmojis extends React.Component {
 		this.state = {
 			data: []
 		};
-		console.log(emojiData);
+	}
+
+	componentDidMount() {
+		const url = 'http://localhost:3001/emojis';
+		fetch(url).then((resp) => resp.json()).then((emoji) => {
+			this.setState({
+				data: emoji
+			});
+			console.log(this.state.data);
+		});
 	}
 
 	render() {
