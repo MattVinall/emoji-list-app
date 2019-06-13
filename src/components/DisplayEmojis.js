@@ -1,5 +1,6 @@
 import React from 'react';
 import '../App.css';
+import emojiData from '../conversion/convertToJson';
 
 class DisplayEmojis extends React.Component {
 	constructor() {
@@ -7,6 +8,7 @@ class DisplayEmojis extends React.Component {
 		this.state = {
 			data: []
 		};
+		console.log(emojiData);
 	}
 
 	render() {

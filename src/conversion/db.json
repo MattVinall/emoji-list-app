@@ -1,0 +1,782 @@
+[
+{"emoji":"😀","english":"Grinning Face","arabic":"مبتسما الوجه"}
+,
+{"emoji":"😃","english":"Grinning Face With Big Eyes","arabic":"مبتسما الوجه مع عيون كبيرة"}
+,
+{"emoji":"😄","english":"Grinning Face With Smiling Eyes","arabic":"مبتسما الوجه المبتسم مع عيون"}
+,
+{"emoji":"😁","english":"Beaming Face With Smiling Eyes","arabic":"مبتهجا الوجه المبتسم مع عيون"}
+,
+{"emoji":"😆","english":"Grinning Squinting Face","arabic":"مبتسما التحديق الوجه"}
+,
+{"emoji":"😅","english":"Grinning Face With Sweat","arabic":"مبتسما الوجه وعرق"}
+,
+{"emoji":"🤣","english":"Rolling on the Floor Laughing","arabic":"يتدحرج على الارض من الضحك"}
+,
+{"emoji":"😂","english":"Face With Tears of Joy","arabic":"وجه مع دموع الفرح"}
+,
+{"emoji":"🙂","english":"Slightly Smiling Face","arabic":"يبتسم قليلا الوجه"}
+,
+{"emoji":"🙃","english":"Upside-Down Face","arabic":"الوجه رأسا على عقب"}
+,
+{"emoji":"😉","english":"Winking Face","arabic":"الغمز الوجه"}
+,
+{"emoji":"😊","english":"Smiling Face With Smiling Eyes","arabic":"الوجه المبتسم مع يبتسم عيون"}
+,
+{"emoji":"😇","english":"Smiling Face With Halo","arabic":"الوجه المبتسم مع هالة"}
+,
+{"emoji":"🥰","english":"Smiling Face With Hearts","arabic":"الوجه المبتسم مع قلوب"}
+,
+{"emoji":"😍","english":"Smiling Face With Heart-Eyes","arabic":"الوجه المبتسم مع قلب عيون"}
+,
+{"emoji":"🤩","english":"Star-Struck","arabic":"ضربها نجوم"}
+,
+{"emoji":"😘","english":"Face Blowing a Kiss","arabic":"مواجهة تهب قبلة"}
+,
+{"emoji":"😗","english":"Kissing Face","arabic":"تقبيل الوجه"}
+,
+{"emoji":"☺","english":"Smiling Face","arabic":"الوجه المبتسم"}
+,
+{"emoji":"😚","english":"Kissing Face With Closed Eyes","arabic":"تقبيل الوجه مع عيون مغلقة"}
+,
+{"emoji":"😙","english":"Kissing Face With Smiling Eyes","arabic":"تقبيل الوجه المبتسم مع عيون"}
+,
+{"emoji":"😋","english":"Face Savoring Food","arabic":"وجه يتذوق الطعام"}
+,
+{"emoji":"😛","english":"Face With Tongue","arabic":"وجه مع اللسان"}
+,
+{"emoji":"😜","english":"Winking Face With Tongue","arabic":"الغمز الوجه واللسان"}
+,
+{"emoji":"🤪","english":"Zany Face","arabic":"وجه مهرج"}
+,
+{"emoji":"😝","english":"Squinting Face With Tongue","arabic":"التحديق الوجه واللسان"}
+,
+{"emoji":"🤑","english":"Money-Mouth Face","arabic":"المال الفم الوجه"}
+,
+{"emoji":"🤗","english":"Hugging Face","arabic":"تعانق وجه"}
+,
+{"emoji":"🤭","english":"Face With Hand Over Mouth","arabic":"وجه مع تسليم الفم"}
+,
+{"emoji":"🤫","english":"Shushing Face","arabic":"Shushing الوجه"}
+,
+{"emoji":"🤔","english":"Thinking Face","arabic":"التفكير الوجه"}
+,
+{"emoji":"🤐","english":"Zipper-Mouth Face","arabic":"الوجه زيبر القلاعية"}
+,
+{"emoji":"🤨","english":"Face With Raised Eyebrow","arabic":"مواجهة مع الحاجبين"}
+,
+{"emoji":"😐","english":"Neutral Face","arabic":"وجه محايد"}
+,
+{"emoji":"😑","english":"Expressionless Face","arabic":"الوجه التعابير"}
+,
+{"emoji":"😶","english":"Face Without Mouth","arabic":"وجه بدون فم"}
+,
+{"emoji":"😏","english":"Smirking Face","arabic":"سميركينج الوجه"}
+,
+{"emoji":"😒","english":"Unamused Face","arabic":"وجه غير مستمتع"}
+,
+{"emoji":"🙄","english":"Face With Rolling Eyes","arabic":"وجه مع المتداول عيون"}
+,
+{"emoji":"😬","english":"Grimacing Face","arabic":"مقطبا الوجه"}
+,
+{"emoji":"🤥","english":"Lying Face","arabic":"الكذب الوجه"}
+,
+{"emoji":"😌","english":"Relieved Face","arabic":"الوجه بالارتياح"}
+,
+{"emoji":"😔","english":"Pensive Face","arabic":"وجه متأمل"}
+,
+{"emoji":"😪","english":"Sleepy Face","arabic":"وجه نائم"}
+,
+{"emoji":"🤤","english":"Drooling Face","arabic":"سيلان اللعاب الوجه"}
+,
+{"emoji":"😴","english":"Sleeping Face","arabic":"النوم الوجه"}
+,
+{"emoji":"😷","english":"Face With Medical Mask","arabic":"وجه وقناع الطبية"}
+,
+{"emoji":"🤒","english":"Face With Thermometer","arabic":"وجه مع ميزان الحرارة"}
+,
+{"emoji":"🤕","english":"Face With Head-Bandage","arabic":"وجه والرأس ضمادة"}
+,
+{"emoji":"🤢","english":"Nauseated Face","arabic":"الوجه بالغثيان"}
+,
+{"emoji":"🤮","english":"Face Vomiting","arabic":"وجه القيء"}
+,
+{"emoji":"🤧","english":"Sneezing Face","arabic":"العطس الوجه"}
+,
+{"emoji":"🥵","english":"Hot Face","arabic":"مواجهة ساخنة"}
+,
+{"emoji":"🥶","english":"Cold Face","arabic":"الوجه البارد"}
+,
+{"emoji":"🥴","english":"Woozy Face","arabic":"وجه مشوش الذهن"}
+,
+{"emoji":"😵","english":"Dizzy Face","arabic":"الوجه بالدوار"}
+,
+{"emoji":"🤯","english":"Exploding Head","arabic":"انفجار الرأس"}
+,
+{"emoji":"🤠","english":"Cowboy Hat Face","arabic":"رعاة البقر القبعة الوجه"}
+,
+{"emoji":"🥳","english":"Partying Face","arabic":"الحفلات الوجه"}
+,
+{"emoji":"😎","english":"Smiling Face With Sunglasses","arabic":"الوجه المبتسم مع النظارات الشمسية"}
+,
+{"emoji":"🤓","english":"Nerd Face","arabic":"الطالب الذي يذاكر كثيرا الوجه"}
+,
+{"emoji":"🧐","english":"Face With Monocle","arabic":"وجه مع مونوكل"}
+,
+{"emoji":"😕","english":"Confused Face","arabic":"الوجه الخلط"}
+,
+{"emoji":"😟","english":"Worried Face","arabic":"الوجه قلق"}
+,
+{"emoji":"🙁","english":"Slightly Frowning Face","arabic":"مقطب الوجه قليلا"}
+,
+{"emoji":"☹","english":"Frowning Face","arabic":"مقطب الوجه"}
+,
+{"emoji":"😮","english":"Face With Open Mouth","arabic":"وجه بفم مفتوح"}
+,
+{"emoji":"😯","english":"Hushed Face","arabic":"الوجه المسكوت"}
+,
+{"emoji":"😲","english":"Astonished Face","arabic":"الوجه دهش"}
+,
+{"emoji":"😳","english":"Flushed Face","arabic":"وجه متوهج"}
+,
+{"emoji":"🥺","english":"Pleading Face","arabic":"المرافعة الوجه"}
+,
+{"emoji":"😦","english":"Frowning Face With Open Mouth","arabic":"مقطب الوجه والفم المفتوح"}
+,
+{"emoji":"😧","english":"Anguished Face","arabic":"الوجه المؤلم"}
+,
+{"emoji":"😨","english":"Fearful Face","arabic":"وجه مخيف"}
+,
+{"emoji":"😰","english":"Anxious Face With Sweat","arabic":"الوجه حريصة مع العرق"}
+,
+{"emoji":"😥","english":"Sad but Relieved Face","arabic":"وجه حزين ولكن بالارتياح"}
+,
+{"emoji":"😢","english":"Crying Face","arabic":"البكاء الوجه"}
+,
+{"emoji":"😭","english":"Loudly Crying Face","arabic":"البكاء بصوت عال الوجه"}
+,
+{"emoji":"😱","english":"Face Screaming in Fear","arabic":"مواجهة صراخ في الخوف"}
+,
+{"emoji":"😖","english":"Confounded Face","arabic":"وجه مرتبك"}
+,
+{"emoji":"😣","english":"Persevering Face","arabic":"المثابرة الوجه"}
+,
+{"emoji":"😞","english":"Disappointed Face","arabic":"الوجه بخيبة أمل"}
+,
+{"emoji":"😓","english":"Downcast Face With Sweat","arabic":"الوجه مسبل مع العرق"}
+,
+{"emoji":"😩","english":"Weary Face","arabic":"الوجه المتعب"}
+,
+{"emoji":"😫","english":"Tired Face","arabic":"وجه متعب"}
+,
+{"emoji":"😤","english":"Face With Steam From Nose","arabic":"الوجه مع البخار من الأنف"}
+,
+{"emoji":"😡","english":"Pouting Face","arabic":"العبوس الوجه"}
+,
+{"emoji":"😠","english":"Angry Face","arabic":"وجه غاضب"}
+,
+{"emoji":"🤬","english":"Face With Symbols on Mouth","arabic":"وجه مع الرموز على الفم"}
+,
+{"emoji":"😈","english":"Smiling Face With Horns","arabic":"الوجه المبتسم مع الأبواق"}
+,
+{"emoji":"👿","english":"Angry Face With Horns","arabic":"وجه غاضب مع الأبواق"}
+,
+{"emoji":"💀","english":"Skull","arabic":"جمجمة"}
+,
+{"emoji":"☠","english":"Skull and Crossbones","arabic":"جمجمة وعظمتين متقاطعتين"}
+,
+{"emoji":"💩","english":"Pile of Poo","arabic":"كومة من بو"}
+,
+{"emoji":"🤡","english":"Clown Face","arabic":"وجه مهرج"}
+,
+{"emoji":"👹","english":"Ogre","arabic":"غول"}
+,
+{"emoji":"👺","english":"Goblin","arabic":"عفريت"}
+,
+{"emoji":"👻","english":"Ghost","arabic":"شبح"}
+,
+{"emoji":"👽","english":"Alien","arabic":"كائن فضائي"}
+,
+{"emoji":"👾","english":"Alien Monster","arabic":"الغريبة الوحش"}
+,
+{"emoji":"🤖","english":"Robot Face","arabic":"الروبوت الوجه"}
+,
+{"emoji":"😺","english":"Grinning Cat Face","arabic":"مبتسما القط الوجه"}
+,
+{"emoji":"😸","english":"Grinning Cat Face With Smiling Eyes","arabic":"مبتسما القط الوجه المبتسم مع عيون"}
+,
+{"emoji":"😹","english":"Cat Face With Tears of Joy","arabic":"الوجه القط مع دموع الفرح"}
+,
+{"emoji":"😻","english":"Smiling Cat Face With Heart-Eyes","arabic":"الوجه المبتسم القط مع قلب عيون"}
+,
+{"emoji":"😼","english":"Cat Face With Wry Smile","arabic":"الوجه القط مع ابتسامة ساخرة"}
+,
+{"emoji":"😽","english":"Kissing Cat Face","arabic":"تقبيل القط الوجه"}
+,
+{"emoji":"🙀","english":"Weary Cat Face","arabic":"بالضجر وجه القط"}
+,
+{"emoji":"😿","english":"Crying Cat Face","arabic":"بكاء القط الوجه"}
+,
+{"emoji":"😾","english":"Pouting Cat Face","arabic":"العبوس القط الوجه"}
+,
+{"emoji":"💋","english":"Kiss Mark","arabic":"علامة قبلة"}
+,
+{"emoji":"👋","english":"Waving Hand","arabic":"التلويح باليد"}
+,
+{"emoji":"🤚","english":"Raised Back of Hand","arabic":"رفع الجزء الخلفي من اليد"}
+,
+{"emoji":"🖐","english":"Hand With Fingers Splayed","arabic":"اليد مع الأصابع مفلطحة"}
+,
+{"emoji":"✋","english":"Raised Hand","arabic":"اليد التي أثيرت"}
+,
+{"emoji":"🖖","english":"Vulcan Salute","arabic":"فولكان تحية"}
+,
+{"emoji":"👌","english":"OK Hand","arabic":"موافق اليد"}
+,
+{"emoji":"✌","english":"Victory Hand","arabic":"فوز اليد"}
+,
+{"emoji":"🤞","english":"Crossed Fingers","arabic":"تمنيت"}
+,
+{"emoji":"🤟","english":"Love-You Gesture","arabic":"الحب وأنت لفتة"}
+,
+{"emoji":"🤘","english":"Sign of the Horns","arabic":"علامة من الأبواق"}
+,
+{"emoji":"🤙","english":"Call Me Hand","arabic":"اتصل بي اليد"}
+,
+{"emoji":"👈","english":"Backhand Index Pointing Left","arabic":"مؤشر خلفية مشيرا اليسار"}
+,
+{"emoji":"👉","english":"Backhand Index Pointing Right","arabic":"مؤشر خلفية مشيرا اليمين"}
+,
+{"emoji":"👆","english":"Backhand Index Pointing Up","arabic":"مؤشر خلفية إلى الارتفاع"}
+,
+{"emoji":"🖕","english":"Middle Finger","arabic":"الاصبع الوسطى"}
+,
+{"emoji":"👇","english":"Backhand Index Pointing Down","arabic":"مؤشر خلفية مشيرا إلى أسفل"}
+,
+{"emoji":"☝","english":"Index Pointing Up","arabic":"مؤشر إلى الارتفاع"}
+,
+{"emoji":"👍","english":"Thumbs Up","arabic":"ممتاز"}
+,
+{"emoji":"👎","english":"Thumbs Down","arabic":"استهجن"}
+,
+{"emoji":"✊","english":"Raised Fist","arabic":"رفع قبضة"}
+,
+{"emoji":"👊","english":"Oncoming Fist","arabic":"القبضة قدوم"}
+,
+{"emoji":"🤛","english":"Left-Facing Fist","arabic":"اليسار مواجهة القبضة"}
+,
+{"emoji":"🤜","english":"Right-Facing Fist","arabic":"بزر الماوس الأيمن مواجهة القبضة"}
+,
+{"emoji":"👏","english":"Clapping Hands","arabic":"التصفيق"}
+,
+{"emoji":"🙌","english":"Raising Hands","arabic":"رفع الأيدي"}
+,
+{"emoji":"👐","english":"Open Hands","arabic":"الأيدي المفتوحة"}
+,
+{"emoji":"🤲","english":"Palms Up Together","arabic":"النخيل معا"}
+,
+{"emoji":"🤝","english":"Handshake","arabic":"مصافحة"}
+,
+{"emoji":"🙏","english":"Folded Hands","arabic":"الأيدي مطوية"}
+,
+{"emoji":"✍","english":"Writing Hand","arabic":"كتابة اليد"}
+,
+{"emoji":"💅","english":"Nail Polish","arabic":"طلاء الأظافر"}
+,
+{"emoji":"🤳","english":"Selfie","arabic":"صورة شخصية"}
+,
+{"emoji":"💪","english":"Flexed Biceps","arabic":"استعرضوا العضلة ذات الرأسين"}
+,
+{"emoji":"🦵","english":"Leg","arabic":"رجل"}
+,
+{"emoji":"🦶","english":"Foot","arabic":"قدم"}
+,
+{"emoji":"👂","english":"Ear","arabic":"إذن"}
+,
+{"emoji":"👃","english":"Nose","arabic":"أنف"}
+,
+{"emoji":"🧠","english":"Brain","arabic":"دماغ"}
+,
+{"emoji":"🦷","english":"Tooth","arabic":"سن"}
+,
+{"emoji":"🦴","english":"Bone","arabic":"عظم"}
+,
+{"emoji":"👀","english":"Eyes","arabic":"عيون"}
+,
+{"emoji":"👁","english":"Eye","arabic":"عين"}
+,
+{"emoji":"👅","english":"Tongue","arabic":"لسان"}
+,
+{"emoji":"👄","english":"Mouth","arabic":"فم"}
+,
+{"emoji":"👶","english":"Baby","arabic":"طفل"}
+,
+{"emoji":"🧒","english":"Child","arabic":"طفل"}
+,
+{"emoji":"👦","english":"Boy","arabic":"صبي"}
+,
+{"emoji":"👧","english":"Girl","arabic":"فتاة"}
+,
+{"emoji":"🧑","english":"Person","arabic":"شخص"}
+,
+{"emoji":"👱","english":"Person: Blond Hair","arabic":"الشخص: أشقر الشعر"}
+,
+{"emoji":"👨","english":"Man","arabic":"رجل"}
+,
+{"emoji":"🧔","english":"Man: Beard","arabic":"الرجل: لحية"}
+,
+{"emoji":"👱‍♂️","english":"Man: Blond Hair","arabic":"الرجل: أشقر الشعر"}
+,
+{"emoji":"👨‍🦰","english":"Man: Red Hair","arabic":"الرجل: الشعر الأحمر"}
+,
+{"emoji":"👨‍🦱","english":"Man: Curly Hair","arabic":"الرجل: الشعر مجعد"}
+,
+{"emoji":"👨‍🦳","english":"Man: White Hair","arabic":"الرجل: أبيض الشعر"}
+,
+{"emoji":"👨‍🦲","english":"Man: Bald","arabic":"الرجل: أصلع"}
+,
+{"emoji":"👩","english":"Woman","arabic":"النساء"}
+,
+{"emoji":"👱‍♀️","english":"Woman: Blond Hair","arabic":"امرأة: أشقر الشعر"}
+,
+{"emoji":"👩‍🦰","english":"Woman: Red Hair","arabic":"المرأة: الشعر الأحمر"}
+,
+{"emoji":"👩‍🦱","english":"Woman: Curly Hair","arabic":"المرأة: الشعر مجعد"}
+,
+{"emoji":"👩‍🦳","english":"Woman: White Hair","arabic":"المرأة: الشعر الأبيض"}
+,
+{"emoji":"👩‍🦲","english":"Woman: Bald","arabic":"امرأة: اصلع"}
+,
+{"emoji":"🧓","english":"Older Person","arabic":"كبار السن"}
+,
+{"emoji":"👴","english":"Old Man","arabic":"عجوز"}
+,
+{"emoji":"👵","english":"Old Woman","arabic":"امرأة كبيرة بالسن"}
+,
+{"emoji":"🙍","english":"Person Frowning","arabic":"الشخص مقطب"}
+,
+{"emoji":"🙍‍♂️","english":"Man Frowning","arabic":"رجل مقطب"}
+,
+{"emoji":"🙍‍♀️","english":"Woman Frowning","arabic":"امرأة مقطب"}
+,
+{"emoji":"🙎","english":"Person Pouting","arabic":"الشخص العبوس"}
+,
+{"emoji":"🙎‍♂️","english":"Man Pouting","arabic":"الرجل العبوس"}
+,
+{"emoji":"🙎‍♀️","english":"Woman Pouting","arabic":"امرأة العبوس"}
+,
+{"emoji":"🙅","english":"Person Gesturing No","arabic":"شخص مشيرا بيديه لا"}
+,
+{"emoji":"🙅‍♂️","english":"Man Gesturing No","arabic":"رجل ومشيرا بيديه لا"}
+,
+{"emoji":"🙅‍♀️","english":"Woman Gesturing No","arabic":"امرأة مشيرا بيديه لا"}
+,
+{"emoji":"🙆","english":"Person Gesturing OK","arabic":"شخص مشيرا بيديه OK"}
+,
+{"emoji":"🙆‍♂️","english":"Man Gesturing OK","arabic":"رجل ومشيرا بيديه OK"}
+,
+{"emoji":"🙆‍♀️","english":"Woman Gesturing OK","arabic":"امرأة مشيرا بيديه OK"}
+,
+{"emoji":"💁","english":"Person Tipping Hand","arabic":"شخص البقشيش اليد"}
+,
+{"emoji":"💁‍♂️","english":"Man Tipping Hand","arabic":"رجل البقشيش اليد"}
+,
+{"emoji":"💁‍♀️","english":"Woman Tipping Hand","arabic":"امرأة البقشيش اليد"}
+,
+{"emoji":"🙋","english":"Person Raising Hand","arabic":"شخص رفع اليد"}
+,
+{"emoji":"🙋‍♂️","english":"Man Raising Hand","arabic":"رجل رفع اليد"}
+,
+{"emoji":"🙋‍♀️","english":"Woman Raising Hand","arabic":"امرأة رفع اليد"}
+,
+{"emoji":"🙇","english":"Person Bowing","arabic":"شخص إنحناء"}
+,
+{"emoji":"🙇‍♂️","english":"Man Bowing","arabic":"رجل إنحناء"}
+,
+{"emoji":"🙇‍♀️","english":"Woman Bowing","arabic":"امرأة إنحناء"}
+,
+{"emoji":"🤦","english":"Person Facepalming","arabic":"شخص Facepalming"}
+,
+{"emoji":"🤦‍♂️","english":"Man Facepalming","arabic":"رجل Facepalming"}
+,
+{"emoji":"🤦‍♀️","english":"Woman Facepalming","arabic":"امرأة Facepalming"}
+,
+{"emoji":"🤷","english":"Person Shrugging","arabic":"شخص الإستهجان"}
+,
+{"emoji":"🤷‍♂️","english":"Man Shrugging","arabic":"رجل الإستهجان"}
+,
+{"emoji":"🤷‍♀️","english":"Woman Shrugging","arabic":"امرأة الإستهجان"}
+,
+{"emoji":"👨‍⚕️","english":"Man Health Worker","arabic":"رجل العاملين الصحيين"}
+,
+{"emoji":"👩‍⚕️","english":"Woman Health Worker","arabic":"امرأة العاملين الصحيين"}
+,
+{"emoji":"👨‍🎓","english":"Man Student","arabic":"رجل الطلاب"}
+,
+{"emoji":"👩‍🎓","english":"Woman Student","arabic":"امرأة الطلاب"}
+,
+{"emoji":"👨‍🏫","english":"Man Teacher","arabic":"الرجل المعلم"}
+,
+{"emoji":"👩‍🏫","english":"Woman Teacher","arabic":"معلمة"}
+,
+{"emoji":"👨‍⚖️","english":"Man Judge","arabic":"رجل القاضي"}
+,
+{"emoji":"👩‍⚖️","english":"Woman Judge","arabic":"امرأة القاضي"}
+,
+{"emoji":"👨‍🌾","english":"Man Farmer","arabic":"رجل المزارعين"}
+,
+{"emoji":"👩‍🌾","english":"Woman Farmer","arabic":"امرأة المزارعين"}
+,
+{"emoji":"👨‍🍳","english":"Man Cook","arabic":"رجل كوك"}
+,
+{"emoji":"👩‍🍳","english":"Woman Cook","arabic":"امرأة كوك"}
+,
+{"emoji":"👨‍🔧","english":"Man Mechanic","arabic":"رجل ميكانيكي"}
+,
+{"emoji":"👩‍🔧","english":"Woman Mechanic","arabic":"امرأة ميكانيكي"}
+,
+{"emoji":"👨‍🏭","english":"Man Factory Worker","arabic":"رجل مصنع العمال"}
+,
+{"emoji":"👩‍🏭","english":"Woman Factory Worker","arabic":"امرأة مصنع العمال"}
+,
+{"emoji":"👨‍💼","english":"Man Office Worker","arabic":"رجل مكتب العمال"}
+,
+{"emoji":"👩‍💼","english":"Woman Office Worker","arabic":"امرأة مكتب العمال"}
+,
+{"emoji":"👨‍🔬","english":"Man Scientist","arabic":"رجل عالم"}
+,
+{"emoji":"👩‍🔬","english":"Woman Scientist","arabic":"امرأة عالمة"}
+,
+{"emoji":"👨‍💻","english":"Man Technologist","arabic":"رجل تقني"}
+,
+{"emoji":"👩‍💻","english":"Woman Technologist","arabic":"امرأة تقني"}
+,
+{"emoji":"👨‍🎤","english":"Man Singer","arabic":"رجل سنجر"}
+,
+{"emoji":"👩‍🎤","english":"Woman Singer","arabic":"امرأة المغني"}
+,
+{"emoji":"👨‍🎨","english":"Man Artist","arabic":"الرجل الفنان"}
+,
+{"emoji":"👩‍🎨","english":"Woman Artist","arabic":"امرأة الفنان"}
+,
+{"emoji":"👨‍✈️","english":"Man Pilot","arabic":"الرجل الطيار"}
+,
+{"emoji":"👩‍✈️","english":"Woman Pilot","arabic":"امرأة الطيار"}
+,
+{"emoji":"👨‍🚀","english":"Man Astronaut","arabic":"رجل رائد الفضاء"}
+,
+{"emoji":"👩‍🚀","english":"Woman Astronaut","arabic":"امرأة رائد الفضاء"}
+,
+{"emoji":"👨‍🚒","english":"Man Firefighter","arabic":"رجل الاطفاء"}
+,
+{"emoji":"👩‍🚒","english":"Woman Firefighter","arabic":"امرأة رجال الاطفاء"}
+,
+{"emoji":"👮","english":"Police Officer","arabic":"ضابط شرطة"}
+,
+{"emoji":"👮‍♂️","english":"Man Police Officer","arabic":"ضابط شرطة رجل"}
+,
+{"emoji":"👮‍♀️","english":"Woman Police Officer","arabic":"ضابط شرطة امرأة"}
+,
+{"emoji":"🕵","english":"Detective","arabic":"المحقق"}
+,
+{"emoji":"🕵️‍♂️","english":"Man Detective","arabic":"رجل المباحث"}
+,
+{"emoji":"🕵️‍♀️","english":"Woman Detective","arabic":"امرأة المخبر"}
+,
+{"emoji":"💂","english":"Guard","arabic":"حارس"}
+,
+{"emoji":"💂‍♂️","english":"Man Guard","arabic":"الحرس رجل"}
+,
+{"emoji":"💂‍♀️","english":"Woman Guard","arabic":"الحرس امرأة"}
+,
+{"emoji":"👷","english":"Construction Worker","arabic":"عامل بناء"}
+,
+{"emoji":"👷‍♂️","english":"Man Construction Worker","arabic":"رجل عمال البناء"}
+,
+{"emoji":"👷‍♀️","english":"Woman Construction Worker","arabic":"امرأة عمال البناء"}
+,
+{"emoji":"🤴","english":"Prince","arabic":"أمير"}
+,
+{"emoji":"👸","english":"Princess","arabic":"أميرة"}
+,
+{"emoji":"👳","english":"Person Wearing Turban","arabic":"شخص يرتدي العمامة"}
+,
+{"emoji":"👳‍♂️","english":"Man Wearing Turban","arabic":"رجل يرتدي العمامة"}
+,
+{"emoji":"👳‍♀️","english":"Woman Wearing Turban","arabic":"امرأة العمامة يرتدي"}
+,
+{"emoji":"👲","english":"Man With Chinese Cap","arabic":"رجل مع كاب الصيني"}
+,
+{"emoji":"🧕","english":"Woman With Headscarf","arabic":"امرأة مع الحجاب"}
+,
+{"emoji":"🤵","english":"Man in Tuxedo","arabic":"رجل في سهرة"}
+,
+{"emoji":"👰","english":"Bride With Veil","arabic":"العروس مع الحجاب"}
+,
+{"emoji":"🤰","english":"Pregnant Woman","arabic":"المرأة الحامل"}
+,
+{"emoji":"🤱","english":"Breast-Feeding","arabic":"الرضاعة الطبيعية"}
+,
+{"emoji":"👼","english":"Baby Angel","arabic":"الطفل الملاك"}
+,
+{"emoji":"🎅","english":"Santa Claus","arabic":"بابا نويل"}
+,
+{"emoji":"🤶","english":"Mrs. Claus","arabic":"السيدة كلوز"}
+,
+{"emoji":"🦸","english":"Superhero","arabic":"خارقة"}
+,
+{"emoji":"🦸‍♂️","english":"Man Superhero","arabic":"رجل خارقة"}
+,
+{"emoji":"🦸‍♀️","english":"Woman Superhero","arabic":"امرأة خارقة"}
+,
+{"emoji":"🦹","english":"Supervillain","arabic":"سوبرفيلين"}
+,
+{"emoji":"🦹‍♂️","english":"Man Supervillain","arabic":"رجل سوبرفيلين"}
+,
+{"emoji":"🦹‍♀️","english":"Woman Supervillain","arabic":"امرأة سوبرفيلين"}
+,
+{"emoji":"🧙","english":"Mage","arabic":"بركه"}
+,
+{"emoji":"🧙‍♂️","english":"Man Mage","arabic":"رجل ماجى"}
+,
+{"emoji":"🧙‍♀️","english":"Woman Mage","arabic":"امرأة ماجى"}
+,
+{"emoji":"🧚","english":"Fairy","arabic":"جنية"}
+,
+{"emoji":"🧚‍♂️","english":"Man Fairy","arabic":"رجل الجنية"}
+,
+{"emoji":"🧚‍♀️","english":"Woman Fairy","arabic":"امرأة الجنية"}
+,
+{"emoji":"🧛","english":"Vampire","arabic":"رعب"}
+,
+{"emoji":"🧛‍♂️","english":"Man Vampire","arabic":"رجل مصاص الدماء"}
+,
+{"emoji":"🧛‍♀️","english":"Woman Vampire","arabic":"امرأة مصاص دماء"}
+,
+{"emoji":"🧜","english":"Merperson","arabic":"Merperson"}
+,
+{"emoji":"🧜‍♂️","english":"Merman","arabic":"حورية"}
+,
+{"emoji":"🧜‍♀️","english":"Mermaid","arabic":"حورية البحر"}
+,
+{"emoji":"🧝","english":"Elf","arabic":"قزم"}
+,
+{"emoji":"🧝‍♂️","english":"Man Elf","arabic":"رجل العفريت"}
+,
+{"emoji":"🧝‍♀️","english":"Woman Elf","arabic":"امرأة العفريت"}
+,
+{"emoji":"🧞","english":"Genie","arabic":"الجني"}
+,
+{"emoji":"🧞‍♂️","english":"Man Genie","arabic":"رجل الجني"}
+,
+{"emoji":"🧞‍♀️","english":"Woman Genie","arabic":"امرأة الجني"}
+,
+{"emoji":"🧟","english":"Zombie","arabic":"الاموات الاحياء"}
+,
+{"emoji":"🧟‍♂️","english":"Man Zombie","arabic":"الرجل الكسول"}
+,
+{"emoji":"🧟‍♀️","english":"Woman Zombie","arabic":"المرأة الكسول"}
+,
+{"emoji":"💆","english":"Person Getting Massage","arabic":"شخص تدليك للوصول إلى"}
+,
+{"emoji":"💆‍♂️","english":"Man Getting Massage","arabic":"رجل تدليك للوصول إلى"}
+,
+{"emoji":"💆‍♀️","english":"Woman Getting Massage","arabic":"امرأة تدليك للوصول إلى"}
+,
+{"emoji":"💇","english":"Person Getting Haircut","arabic":"شخص حلاقة الحصول على"}
+,
+{"emoji":"💇‍♂️","english":"Man Getting Haircut","arabic":"رجل قص شعر للوصول إلى"}
+,
+{"emoji":"💇‍♀️","english":"Woman Getting Haircut","arabic":"امرأة حلاقة الحصول على"}
+,
+{"emoji":"🚶","english":"Person Walking","arabic":"شخص المشي"}
+,
+{"emoji":"🚶‍♂️","english":"Man Walking","arabic":"الرجل المشي"}
+,
+{"emoji":"🚶‍♀️","english":"Woman Walking","arabic":"امرأة المشي"}
+,
+{"emoji":"🏃","english":"Person Running","arabic":"شخص الجري"}
+,
+{"emoji":"🏃‍♂️","english":"Man Running","arabic":"رجل الجري"}
+,
+{"emoji":"🏃‍♀️","english":"Woman Running","arabic":"امرأة الجري"}
+,
+{"emoji":"💃","english":"Woman Dancing","arabic":"امرأة الرقص"}
+,
+{"emoji":"🕺","english":"Man Dancing","arabic":"رجل الرقص"}
+,
+{"emoji":"🕴","english":"Man in Suit Levitating","arabic":"رجل في الرفع البدلة"}
+,
+{"emoji":"👯","english":"People With Bunny Ears","arabic":"الناس مع آذان الأرنب"}
+,
+{"emoji":"👯‍♂️","english":"Men With Bunny Ears","arabic":"الرجال مع آذان الأرنب"}
+,
+{"emoji":"👯‍♀️","english":"Women With Bunny Ears","arabic":"نساء مع آذان الأرنب"}
+,
+{"emoji":"🧖","english":"Person in Steamy Room","arabic":"شخص في غرفة مشبع بالبخار"}
+,
+{"emoji":"🧖‍♂️","english":"Man in Steamy Room","arabic":"رجل في غرفة مشبع بالبخار"}
+,
+{"emoji":"🧖‍♀️","english":"Woman in Steamy Room","arabic":"امرأة في غرفة مشبع بالبخار"}
+,
+{"emoji":"🧘","english":"Person in Lotus Position","arabic":"شخص في Lotus الوظيفة"}
+,
+{"emoji":"👭","english":"Women Holding Hands","arabic":"المرأة يدا بيد"}
+,
+{"emoji":"👫","english":"Woman and Man Holding Hands","arabic":"المرأة والرجل يدا بيد"}
+,
+{"emoji":"👬","english":"Men Holding Hands","arabic":"الرجال يدا بيد"}
+,
+{"emoji":"💏","english":"Kiss","arabic":"قبلة"}
+,
+{"emoji":"👨‍❤️‍💋‍👨","english":"Kiss: Man, Man","arabic":"قبلة: رجل، رجل"}
+,
+{"emoji":"👩‍❤️‍💋‍👩","english":"Kiss: Woman, Woman","arabic":"قبلة: امرأة، امرأة"}
+,
+{"emoji":"💑","english":"Couple With Heart","arabic":"زوجين مع القلب"}
+,
+{"emoji":"👨‍❤️‍👨","english":"Couple With Heart: Man, Man","arabic":"زوجين مع القلب: رجل، رجل"}
+,
+{"emoji":"👩‍❤️‍👩","english":"Couple With Heart: Woman, Woman","arabic":"زوجين مع القلب: المرأة، المرأة"}
+,
+{"emoji":"👪","english":"Family","arabic":"عائلة"}
+,
+{"emoji":"👨‍👩‍👦","english":"Family: Man, Woman, Boy","arabic":"الأسرة: رجل، امرأة، فتى"}
+,
+{"emoji":"👨‍👩‍👧","english":"Family: Man, Woman, Girl","arabic":"الأسرة: رجل، امرأة، فتاة"}
+,
+{"emoji":"👨‍👩‍👧‍👦","english":"Family: Man, Woman, Girl, Boy","arabic":"الأسرة: رجل، امرأة، فتاة، فتى"}
+,
+{"emoji":"👨‍👩‍👦‍👦","english":"Family: Man, Woman, Boy, Boy","arabic":"الأسرة: رجل، امرأة، فتى، فتى"}
+,
+{"emoji":"👨‍👩‍👧‍👧","english":"Family: Man, Woman, Girl, Girl","arabic":"الأسرة: رجل، امرأة، فتاة، فتاة"}
+,
+{"emoji":"👨‍👨‍👦","english":"Family: Man, Man, Boy","arabic":"الأسرة: الرجل، الرجل، فتى"}
+,
+{"emoji":"👨‍👨‍👧","english":"Family: Man, Man, Girl","arabic":"الأسرة: الرجل، الرجل، الفتاة"}
+,
+{"emoji":"👨‍👨‍👧‍👦","english":"Family: Man, Man, Girl, Boy","arabic":"الأسرة: الرجل، الرجل، الفتاة، بوي"}
+,
+{"emoji":"👨‍👨‍👦‍👦","english":"Family: Man, Man, Boy, Boy","arabic":"الأسرة: الرجل، الرجل، فتى، فتى"}
+,
+{"emoji":"👨‍👨‍👧‍👧","english":"Family: Man, Man, Girl, Girl","arabic":"الأسرة: الرجل، الرجل، الفتاة، فتاة"}
+,
+{"emoji":"👩‍👩‍👦","english":"Family: Woman, Woman, Boy","arabic":"الأسرة: امرأة، امرأة، فتى"}
+,
+{"emoji":"👩‍👩‍👧","english":"Family: Woman, Woman, Girl","arabic":"الأسرة: امرأة، امرأة، فتاة"}
+,
+{"emoji":"👩‍👩‍👧‍👦","english":"Family: Woman, Woman, Girl, Boy","arabic":"الأسرة: امرأة، امرأة، فتاة، فتى"}
+,
+{"emoji":"👩‍👩‍👦‍👦","english":"Family: Woman, Woman, Boy, Boy","arabic":"الأسرة: امرأة، امرأة، فتى، فتى"}
+,
+{"emoji":"👩‍👩‍👧‍👧","english":"Family: Woman, Woman, Girl, Girl","arabic":"الأسرة: امرأة، امرأة، فتاة، فتاة"}
+,
+{"emoji":"👨‍👦","english":"Family: Man, Boy","arabic":"الأسرة: رجل، فتى"}
+,
+{"emoji":"👨‍👦‍👦","english":"Family: Man, Boy, Boy","arabic":"الأسرة: رجل، فتى، فتى"}
+,
+{"emoji":"👨‍👧","english":"Family: Man, Girl","arabic":"الأسرة: رجل، فتاة"}
+,
+{"emoji":"👨‍👧‍👦","english":"Family: Man, Girl, Boy","arabic":"الأسرة: رجل، فتاة، فتى"}
+,
+{"emoji":"👨‍👧‍👧","english":"Family: Man, Girl, Girl","arabic":"الأسرة: رجل، فتاة، فتاة"}
+,
+{"emoji":"👩‍👦","english":"Family: Woman, Boy","arabic":"الأسرة: امرأة، فتى"}
+,
+{"emoji":"👩‍👦‍👦","english":"Family: Woman, Boy, Boy","arabic":"الأسرة: امرأة، فتى، فتى"}
+,
+{"emoji":"👩‍👧","english":"Family: Woman, Girl","arabic":"الأسرة: امرأة، فتاة"}
+,
+{"emoji":"👩‍👧‍👦","english":"Family: Woman, Girl, Boy","arabic":"الأسرة: امرأة، فتاة، فتى"}
+,
+{"emoji":"👩‍👧‍👧","english":"Family: Woman, Girl, Girl","arabic":"الأسرة: امرأة، فتاة، فتاة"}
+,
+{"emoji":"🗣","english":"Speaking Head","arabic":"وتحدث رئيس"}
+,
+{"emoji":"👤","english":"Bust in Silhouette","arabic":"تمثال نصفي في صورة ظلية"}
+,
+{"emoji":"👥","english":"Busts in Silhouette","arabic":"تماثيل نصفية في صورة ظلية"}
+,
+{"emoji":"👣","english":"Footprints","arabic":"اثار الاقدام"}
+,
+{"emoji":"🧳","english":"Luggage","arabic":"أمتعة"}
+,
+{"emoji":"🌂","english":"Closed Umbrella","arabic":"مغلقة مظلة"}
+,
+{"emoji":"☂","english":"Umbrella","arabic":"مظلة"}
+,
+{"emoji":"🧵","english":"Thread","arabic":"خيط"}
+,
+{"emoji":"🧶","english":"Yarn","arabic":"غزل"}
+,
+{"emoji":"👓","english":"Glasses","arabic":"نظارات"}
+,
+{"emoji":"🕶","english":"Sunglasses","arabic":"نظارات شمسيه"}
+,
+{"emoji":"🥽","english":"Goggles","arabic":"نظارات واقية"}
+,
+{"emoji":"🥼","english":"Lab Coat","arabic":"معطف المختبر"}
+,
+{"emoji":"👔","english":"Necktie","arabic":"ربطة عنق"}
+,
+{"emoji":"👕","english":"T-Shirt","arabic":"تي شيرت"}
+,
+{"emoji":"👖","english":"Jeans","arabic":"جينز"}
+,
+{"emoji":"🧣","english":"Scarf","arabic":"وشاح"}
+,
+{"emoji":"🧤","english":"Gloves","arabic":"قفازات"}
+,
+{"emoji":"🧥","english":"Coat","arabic":"معطف"}
+,
+{"emoji":"🧦","english":"Socks","arabic":"جوارب"}
+,
+{"emoji":"👗","english":"Dress","arabic":"فستان"}
+,
+{"emoji":"👘","english":"Kimono","arabic":"ثوب واسع فضفاض"}
+,
+{"emoji":"👙","english":"Bikini","arabic":"بيكيني"}
+,
+{"emoji":"👚","english":"Woman’s Clothes","arabic":"الملابس المرأة"}
+,
+{"emoji":"👛","english":"Purse","arabic":"محفظة"}
+,
+{"emoji":"👜","english":"Handbag","arabic":"حقيبة يد"}
+,
+{"emoji":"👝","english":"Clutch Bag","arabic":"حقيبة مخلب"}
+,
+{"emoji":"🎒","english":"Backpack","arabic":"حقيبة ظهر"}
+,
+{"emoji":"👞","english":"Man’s Shoe","arabic":"حذاء الرجل"}
+,
+{"emoji":"👟","english":"Running Shoe","arabic":"حذاء الجري"}
+,
+{"emoji":"🥾","english":"Hiking Boot","arabic":"حذاء تنزه"}
+,
+{"emoji":"🥿","english":"Flat Shoe","arabic":"الأحذية المسطحة"}
+,
+{"emoji":"👠","english":"High-Heeled Shoe","arabic":"حذاء بكعب عال"}
+,
+{"emoji":"👡","english":"Woman’s Sandal","arabic":"صندل المرأة"}
+,
+{"emoji":"👢","english":"Woman’s Boot","arabic":"الحذاء المرأة"}
+,
+{"emoji":"👑","english":"Crown","arabic":"تاج"}
+,
+{"emoji":"👒","english":"Woman’s Hat","arabic":"هات المرأة"}
+,
+{"emoji":"🎩","english":"Top Hat","arabic":"قبعة عالية"}
+,
+{"emoji":"🎓","english":"Graduation Cap","arabic":"قبعة التخرج"}
+,
+{"emoji":"🧢","english":"Billed Cap","arabic":"المفوتر كاب"}
+,
+{"emoji":"⛑","english":"Rescue Worker’s Helmet","arabic":"خوذة إنقاذ العمال"}
+,
+{"emoji":"💄","english":"Lipstick","arabic":"أحمر الشفاه"}
+,
+{"emoji":"💍","english":"Ring","arabic":"حلقة"}
+,
+{"emoji":"💼","english":"Briefcase","arabic":"حقيبة"}
+
+]
