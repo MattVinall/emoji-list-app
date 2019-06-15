@@ -74,10 +74,12 @@ class DisplayEmojis extends React.Component {
 					<button onClick={this.handleClick}>
 						{this.state.english ? <p>Change to Arabic</p> : <p>Change to English</p>}
 					</button>
+				</form>
+				<div className="linkContainer wrapper">
 					<a href="#favourites" className="favouritesLink">
 						Go To Favourites
 					</a>
-				</form>
+				</div>
 				<div className="emojiContainer wrapper">
 					{this.state.data ? (
 						this.state.data
