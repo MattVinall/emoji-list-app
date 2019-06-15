@@ -8,11 +8,15 @@ class DisplayEmojis extends React.Component {
 		this.state = {
 			data: [],
 			searchTerm: '',
-			searchParam: ''
+			favourites: []
 		};
 	}
 
 	componentDidMount() {
+		this.getEmojiData();
+	}
+
+	getEmojiData = () => {
 		const url = 'http://localhost:3001/emojis';
 		fetch(url).then((resp) => resp.json()).then((emoji) => {
 			this.setState({
@@ -20,19 +24,12 @@ class DisplayEmojis extends React.Component {
 			});
 			console.log(this.state.data);
 		});
-	}
-
-	handleChange = (e) => {
-		this.setState({
-			[e.target.id]: e.target.value
-		});
 	};
 
-	handleSubmit = (e) => {
-		e.preventDefault();
+	handleChange = (e) => {
+		const { id, value } = e.target;
 		this.setState({
-			searchParam: this.state.searchTerm,
-			searchTerm: ''
+			[id]: value
 		});
 	};
 
@@ -40,25 +37,33 @@ class DisplayEmojis extends React.Component {
 		return (
 			<div>
 				<form className="searchBar" onSubmit={this.handleSubmit}>
-					<label htmlFor="searchTerm">Search Emojis:</label>
-					<input
-						type="text"
-						placeholder="search your favourite emojis"
-						id="searchTerm"
-						value={this.state.searchTerm}
-						onChange={this.handleChange}
-					/>
+					<label htmlFor="searchTerm">
+						Search Emojis:
+						<input
+							type="text"
+							placeholder="search your favourite emojis"
+							id="searchTerm"
+							value={this.state.searchTerm}
+							onChange={this.handleChange}
+							name="searchTerm"
+						/>
+					</label>
 				</form>
 				<div className="emojiContainer">
 					{this.state.data ? (
 						this.state.data
-							.filter((data) => data.english.includes(this.state.searchTerm))
+							.filter(
+								(data) =>
+									data.english.includes(this.state.searchTerm) ||
+									data.arabic.includes(this.state.searchTerm)
+							)
 							.map((item, index) => {
 								return (
 									<ul key={index}>
 										<li>
 											{item.emoji} - {item.english}
 										</li>
+										<p>{item.arabic}</p>
 									</ul>
 								);
 							})
