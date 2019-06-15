@@ -12,6 +12,13 @@ class DisplayEmojis extends React.Component {
 		};
 	}
 
+	componentWillMount() {
+		localStorage.getItem('favourites') &&
+			this.setState({
+				favourites: JSON.parse(localStorage.getItem('favourites'))
+			});
+	}
+
 	componentDidMount() {
 		this.getEmojiData();
 	}
@@ -46,6 +53,10 @@ class DisplayEmojis extends React.Component {
 		});
 	};
 
+	componentWillUpdate(nextProps, nextState) {
+		localStorage.setItem('favourites', JSON.stringify(nextState.favourites));
+	}
+
 	render() {
 		return (
 			<div>
@@ -63,6 +74,9 @@ class DisplayEmojis extends React.Component {
 					<button onClick={this.handleClick}>
 						{this.state.english ? <p>Change to Arabic</p> : <p>Change to English</p>}
 					</button>
+					<a href="#favourites" className="favouritesLink">
+						Go To Favourites
+					</a>
 				</form>
 				<div className="emojiContainer wrapper">
 					{this.state.data ? (
@@ -74,7 +88,6 @@ class DisplayEmojis extends React.Component {
 							)
 							.map((item, index) => {
 								const obj = Object.values(item);
-								console.log(obj);
 								return (
 									<Fragment>
 										<div key={index} className="card">
@@ -111,13 +124,12 @@ class DisplayEmojis extends React.Component {
 							})
 					) : null}
 
-					<section className="favourites">
+					<section className="favourites" id="favourites">
 						<h2>Favourite Emojis</h2>
 						<div className="favouritesContainer">
 							{this.state.favourites &&
-								this.state.favourites.map((item, index) => {
+								this.state.favourites.map((item) => {
 									let splitArr = item.split(',');
-									console.log(splitArr);
 									return (
 										<div className="card">
 											{this.state.english ? (
