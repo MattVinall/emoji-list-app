@@ -1,6 +1,5 @@
 import React, { Fragment } from 'react';
 import '../App.css';
-// import axios from 'axios';
 
 class DisplayEmojis extends React.Component {
 	constructor() {
@@ -50,23 +49,22 @@ class DisplayEmojis extends React.Component {
 	render() {
 		return (
 			<div>
+				<h1 className="title">Emoji App</h1>
 				<form className="searchBar" onSubmit={this.handleSubmit}>
-					<label htmlFor="searchTerm">
-						Search Emojis:
-						<input
-							type="text"
-							placeholder="search your favourite emojis"
-							id="searchTerm"
-							value={this.state.searchTerm}
-							onChange={this.handleChange}
-							name="searchTerm"
-						/>
-					</label>
+					<label htmlFor="searchTerm">Search Emojis:</label>
+					<input
+						type="text"
+						placeholder="search your favourite emojis"
+						id="searchTerm"
+						value={this.state.searchTerm}
+						onChange={this.handleChange}
+						name="searchTerm"
+					/>
 					<button onClick={this.handleClick}>
 						{this.state.english ? <p>Change to Arabic</p> : <p>Change to English</p>}
 					</button>
 				</form>
-				<div className="emojiContainer">
+				<div className="emojiContainer wrapper">
 					{this.state.data ? (
 						this.state.data
 							.filter(
@@ -79,10 +77,11 @@ class DisplayEmojis extends React.Component {
 								console.log(obj);
 								return (
 									<Fragment>
-										<ul key={index}>
+										<div key={index} className="card">
 											{this.state.english ? (
-												<li>
-													{item.emoji} - {item.english}
+												<Fragment>
+													<h3 className="emoji">{item.emoji} </h3>
+													<h3 className="description">{item.english}</h3>
 													<button
 														type="submit"
 														id="submit"
@@ -91,35 +90,52 @@ class DisplayEmojis extends React.Component {
 													>
 														Add to Favourites
 													</button>
-												</li>
+												</Fragment>
 											) : (
-												<li>
-													{item.emoji} - {item.arabic}
-													<button type="submit" name="emojis" onClick={this.handleFavourites}>
-														Add
+												<Fragment>
+													<h3 className="emoji">{item.emoji} </h3>
+													<h3 className="description">{item.arabic}</h3>
+													<button
+														type="submit"
+														id="submit"
+														onClick={this.handleFavourites}
+														value={obj}
+													>
+														Add to Favourites
 													</button>
-												</li>
+												</Fragment>
 											)}
-										</ul>
+										</div>
 									</Fragment>
 								);
 							})
 					) : null}
-					<h1>Favourite Emojis</h1>
-					{this.state.favourites &&
-						this.state.favourites.map((item, index) => {
-							let splitArr = item.split(',');
-							console.log(splitArr);
-							return (
-								<Fragment>
-									<ul key={index}>
-										<li>
-											{splitArr[0]} - {splitArr[1]}
-										</li>
-									</ul>
-								</Fragment>
-							);
-						})}
+
+					<section className="favourites">
+						<h2>Favourite Emojis</h2>
+						<div className="favouritesContainer">
+							{this.state.favourites &&
+								this.state.favourites.map((item, index) => {
+									let splitArr = item.split(',');
+									console.log(splitArr);
+									return (
+										<div className="card">
+											{this.state.english ? (
+												<Fragment>
+													<h3 className="emoji">{splitArr[0]}</h3>
+													<h3 className="description">{splitArr[1]}</h3>
+												</Fragment>
+											) : (
+												<Fragment>
+													<h3 className="emoji">{splitArr[0]}</h3>
+													<h3 className="description">{splitArr[2]}</h3>
+												</Fragment>
+											)}
+										</div>
+									);
+								})}
+						</div>
+					</section>
 				</div>
 			</div>
 		);
