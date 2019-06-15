@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2e523430.chunk.css",
-    "main.js": "/static/js/main.55411939.chunk.js",
-    "main.js.map": "/static/js/main.55411939.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.7c37ca6e.chunk.js": "/static/js/2.7c37ca6e.chunk.js",
-    "static/js/2.7c37ca6e.chunk.js.map": "/static/js/2.7c37ca6e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fefeb4f2de72278d5dba36c422aa57f8.js": "/precache-manifest.fefeb4f2de72278d5dba36c422aa57f8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2e523430.chunk.css.map": "/static/css/main.2e523430.chunk.css.map"
+    "main.css": "/emoji-list-app/static/css/main.2e523430.chunk.css",
+    "main.js": "/emoji-list-app/static/js/main.64868648.chunk.js",
+    "main.js.map": "/emoji-list-app/static/js/main.64868648.chunk.js.map",
+    "runtime~main.js": "/emoji-list-app/static/js/runtime~main.31212b69.js",
+    "runtime~main.js.map": "/emoji-list-app/static/js/runtime~main.31212b69.js.map",
+    "static/js/2.7c37ca6e.chunk.js": "/emoji-list-app/static/js/2.7c37ca6e.chunk.js",
+    "static/js/2.7c37ca6e.chunk.js.map": "/emoji-list-app/static/js/2.7c37ca6e.chunk.js.map",
+    "index.html": "/emoji-list-app/index.html",
+    "precache-manifest.6ade58a73be7f9dd632dfff2a772231f.js": "/emoji-list-app/precache-manifest.6ade58a73be7f9dd632dfff2a772231f.js",
+    "service-worker.js": "/emoji-list-app/service-worker.js",
+    "static/css/main.2e523430.chunk.css.map": "/emoji-list-app/static/css/main.2e523430.chunk.css.map"
   }
 }
