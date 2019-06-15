@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import '../App.css';
 // import axios from 'axios';
 
@@ -8,7 +8,8 @@ class DisplayEmojis extends React.Component {
 		this.state = {
 			data: [],
 			searchTerm: '',
-			favourites: []
+			favourites: [],
+			english: true
 		};
 	}
 
@@ -33,6 +34,13 @@ class DisplayEmojis extends React.Component {
 		});
 	};
 
+	handleClick = (e) => {
+		e.preventDefault();
+		this.setState({
+			english: !this.state.english
+		});
+	};
+
 	render() {
 		return (
 			<div>
@@ -48,6 +56,9 @@ class DisplayEmojis extends React.Component {
 							name="searchTerm"
 						/>
 					</label>
+					<button onClick={this.handleClick}>
+						{this.state.english ? <p>Change to Arabic</p> : <p>Change to English</p>}
+					</button>
 				</form>
 				<div className="emojiContainer">
 					{this.state.data ? (
@@ -59,12 +70,21 @@ class DisplayEmojis extends React.Component {
 							)
 							.map((item, index) => {
 								return (
-									<ul key={index}>
-										<li>
-											{item.emoji} - {item.english}
-										</li>
-										<p>{item.arabic}</p>
-									</ul>
+									<Fragment>
+										<ul key={index}>
+											{this.state.english ? (
+												<li>
+													{item.emoji} - {item.english}
+													<button type="submit" value="submit" />
+												</li>
+											) : (
+												<li>
+													{item.emoji} - {item.arabic}
+													<button type="submit" value="submit" />
+												</li>
+											)}
+										</ul>
+									</Fragment>
 								);
 							})
 					) : null}
