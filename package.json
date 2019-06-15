@@ -13,12 +13,13 @@
 		"react-scripts": "3.0.1"
 	},
 	"scripts": {
-		"predeploy": "npm run build",
-		"deploy": "gh-pages master -d build",
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
-		"eject": "react-scripts eject"
+		"eject": "react-scripts eject",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages master -d build",
+		"homepage": "https://mattvinall.github.io/emoji-list-app/"
 	},
 	"eslintConfig": {
 		"extends": "react-app"
