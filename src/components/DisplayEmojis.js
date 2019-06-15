@@ -23,7 +23,6 @@ class DisplayEmojis extends React.Component {
 			this.setState({
 				data: emoji
 			});
-			console.log(this.state.data);
 		});
 	};
 
@@ -38,6 +37,13 @@ class DisplayEmojis extends React.Component {
 		e.preventDefault();
 		this.setState({
 			english: !this.state.english
+		});
+	};
+
+	handleFavourites = (e) => {
+		e.preventDefault();
+		this.setState({
+			favourites: [ ...this.state.favourites, e.target.value ]
 		});
 	};
 
@@ -69,18 +75,29 @@ class DisplayEmojis extends React.Component {
 									data.arabic.includes(this.state.searchTerm)
 							)
 							.map((item, index) => {
+								const obj = Object.values(item);
+								console.log(obj);
 								return (
 									<Fragment>
 										<ul key={index}>
 											{this.state.english ? (
 												<li>
 													{item.emoji} - {item.english}
-													<button type="submit" value="submit" />
+													<button
+														type="submit"
+														id="submit"
+														onClick={this.handleFavourites}
+														value={obj}
+													>
+														Add to Favourites
+													</button>
 												</li>
 											) : (
 												<li>
 													{item.emoji} - {item.arabic}
-													<button type="submit" value="submit" />
+													<button type="submit" name="emojis" onClick={this.handleFavourites}>
+														Add
+													</button>
 												</li>
 											)}
 										</ul>
@@ -88,6 +105,21 @@ class DisplayEmojis extends React.Component {
 								);
 							})
 					) : null}
+					<h1>Favourite Emojis</h1>
+					{this.state.favourites &&
+						this.state.favourites.map((item, index) => {
+							let splitArr = item.split(',');
+							console.log(splitArr);
+							return (
+								<Fragment>
+									<ul key={index}>
+										<li>
+											{splitArr[0]} - {splitArr[1]}
+										</li>
+									</ul>
+								</Fragment>
+							);
+						})}
 				</div>
 			</div>
 		);
