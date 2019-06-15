@@ -12,14 +12,14 @@
 		"react-dom": "^16.8.6",
 		"react-scripts": "3.0.1"
 	},
+	"homepage": "https://mattvinall.github.io/emoji-list-app/",
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject",
 		"predeploy": "npm run build",
-		"deploy": "gh-pages master -d build",
-		"homepage": "https://mattvinall.github.io/emoji-list-app/"
+		"deploy": "gh-pages -d build"
 	},
 	"eslintConfig": {
 		"extends": "react-app"
